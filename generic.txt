@@ -1,0 +1,1 @@
+python preprocess_data.py --raw_data_path /workspaces/mlops-zoomcamp/02-experiment-tracking/TAXI_DATA_FOLDER/ --dest_path ./output
