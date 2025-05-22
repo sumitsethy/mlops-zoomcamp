@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/269636758728950704/d751619c9f564968b92f8748688059f0/artifacts
+end_time: 1747920235933
+entry_point_name: ''
+experiment_id: '269636758728950704'
+lifecycle_stage: active
+run_id: d751619c9f564968b92f8748688059f0
+run_name: adventurous-fowl-155
+run_uuid: d751619c9f564968b92f8748688059f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747920224282
+status: 3
+tags: []
+user_id: codespace

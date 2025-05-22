@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/269636758728950704/c1c95de8bb494afb94b3c886611a45f9/artifacts
+end_time: 1747919059670
+entry_point_name: ''
+experiment_id: '269636758728950704'
+lifecycle_stage: active
+run_id: c1c95de8bb494afb94b3c886611a45f9
+run_name: judicious-goose-401
+run_uuid: c1c95de8bb494afb94b3c886611a45f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747919048070
+status: 4
+tags: []
+user_id: codespace

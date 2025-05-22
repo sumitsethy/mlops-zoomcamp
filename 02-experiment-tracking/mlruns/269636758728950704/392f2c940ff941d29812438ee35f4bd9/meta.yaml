@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/269636758728950704/392f2c940ff941d29812438ee35f4bd9/artifacts
+end_time: 1747919987994
+entry_point_name: ''
+experiment_id: '269636758728950704'
+lifecycle_stage: active
+run_id: 392f2c940ff941d29812438ee35f4bd9
+run_name: skillful-hound-759
+run_uuid: 392f2c940ff941d29812438ee35f4bd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747919976154
+status: 4
+tags: []
+user_id: codespace

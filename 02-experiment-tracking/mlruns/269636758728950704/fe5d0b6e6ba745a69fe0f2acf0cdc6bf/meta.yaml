@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/269636758728950704/fe5d0b6e6ba745a69fe0f2acf0cdc6bf/artifacts
+end_time: 1747921275870
+entry_point_name: ''
+experiment_id: '269636758728950704'
+lifecycle_stage: active
+run_id: fe5d0b6e6ba745a69fe0f2acf0cdc6bf
+run_name: polite-conch-713
+run_uuid: fe5d0b6e6ba745a69fe0f2acf0cdc6bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747921255220
+status: 3
+tags: []
+user_id: codespace
