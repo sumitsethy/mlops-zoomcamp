@@ -1,1 +1,11 @@
 python preprocess_data.py --raw_data_path /workspaces/mlops-zoomcamp/02-experiment-tracking/TAXI_DATA_FOLDER/ --dest_path ./output
+
+
+source ml-flow/bin/activate
+
+
+5656c48baf1b442080342d5036d10704
+
+mlflow experiments restore -x 5656c48baf1b442080342d5036d10704 # didnt work
+
+mlflow experiments delete --experiment-id 5656c48baf1b442080342d5036d10704 # didn't work
