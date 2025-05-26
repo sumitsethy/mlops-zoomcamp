@@ -2,6 +2,7 @@ import os
 import pickle
 import click
 import mlflow
+import numpy as np
 
 mlflow.set_experiment("02-experiment and tracking")
 mlflow.autolog()
@@ -31,7 +32,7 @@ def run_train(data_path: str):
         rf.fit(X_train, y_train)
         y_pred = rf.predict(X_val)
 
-        rmse = mean_squared_error(y_val, y_pred)
+        rmse = np.sqrt(mean_squared_error(y_val, y_pred))
 
 if __name__ == '__main__':
     run_train()
